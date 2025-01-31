@@ -1,0 +1,1 @@
+from backend.graphs.crypto_analyst import crypto_analyst_graph

@@ -1,0 +1,12 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+      "quiz_generator": "./graphs/quiz_generator.py:quiz_generator_graph",
+      "crypto_analyst": "./graphs/crypto_analyst.py:crypto_analyst_graph"
+    },
+    "env": "./.env",
+    "python_version": "3.11",
+    "dependencies": [
+      "."
+    ]
+  }
